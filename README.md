@@ -1,5 +1,5 @@
 # boids-algorithm
-Implementation of Boids algorithm of Craig Reynolds 1955 using the Unity Game Engine.
+Implementation of Boids algorithm of Craig Reynolds 1987 using the Unity Game Engine.
 
 # How to Use
 The software .exe file is in the resources folder in a .zip file
