@@ -2,10 +2,10 @@
 Implementation of Boids algorithm using the Unity Game Engine. Boids algorithm, introduced by Craig Renolds in 1987, has become a foundational method for simulating collective behaviour in computer graphics and swarm intelligence research. Inspired by the swarming of birds it implements three basic rules to achieve a complicated flight pattern.
 
 # How to Download
-Go to the path: boids-algorithm/BoidsSimulation/BoidsAlgorithmn.zip
-Click on the download button
+1. Go to the path: boids-algorithm/BoidsSimulation/BoidsAlgorithmn.zip
+2. Click on the download button
 ![Sample Image](./Resources/howToDownload.png)
-Extract the .zip file
+3. Extract the .zip file
 ![Sample Image](./Resources/howToExtract.png)
-Run the BoidsAlgorithm.exe
+4. Run the BoidsAlgorithm.exe
 ![Sample Image](./Resources/howToPlay.png)
