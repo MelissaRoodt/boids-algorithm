@@ -9,3 +9,6 @@ Run the BoidsAlgorithm.exe file to play test the solution.
 
 # What is boids algorithm
 Boids algorithm, introduced by Craig Renolds in 1987, has become a foundational method for simulating collective behaviour in computer graphics and swarm intelligence research. Inspired by the swarming of birds it implements three basic rules to achieve a complicated flight pattern.
+
+# Requirements
+Unity Game Engine
