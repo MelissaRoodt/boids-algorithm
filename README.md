@@ -4,7 +4,7 @@ Implementation of Boids algorithm using the Unity Game Engine. Boids algorithm, 
 # Video of Project
 [Watch the video](https://youtu.be/a6eu54CsfB8)
 
-# How to Download
+# How to Download Project
 1. Go to the path: boids-algorithm/BoidsSimulation/BoidsAlgorithmn.zip
 2. Click on the download button
 ![Sample Image](./Resources/howToDownload.png)
@@ -12,3 +12,6 @@ Implementation of Boids algorithm using the Unity Game Engine. Boids algorithm, 
 ![Sample Image](./Resources/howToExtract.png)
 4. Run the BoidsAlgorithm.exe
 ![Sample Image](./Resources/howToPlay.png)
+
+# Code Location
+boids-algorithm/BoidsSimulation/Assets
