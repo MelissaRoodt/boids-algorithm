@@ -6,5 +6,6 @@ Go to the path: boids-algorithm/BoidsSimulation/BoidsAlgorithmn.zip
 Click on the download button
 ![Sample Image](./Resources/howToDownload.png)
 Extract the .zip file
-
+![Sample Image](./Resources/howToExtract.png)
 Run the BoidsAlgorithm.exe
+![Sample Image](./Resources/howToPlay.png)
